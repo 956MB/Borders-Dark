@@ -1,0 +1,39 @@
+{
+  "name": "borders-dark",
+  "displayName": "Borders Dark",
+  "description": "Just more borders dude.",
+  "version": "0.0.1",
+  "publisher": "bloumbs",
+  "author": {
+    "name": "Bloumbs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bloumbs/Borders-Dark"
+  },
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#585858",
+    "theme": "dark"
+  },
+  "keywords": [
+    "borders",
+    "border",
+    "dark",
+    "theme",
+    "grey"
+  ],
+  "contributes": {
+    "themes": [{
+      "label": "Borders Dark",
+      "uiTheme": "vs-dark",
+      "path": "./themes/borders-dark-theme.json"
+    }]
+  }
+}
