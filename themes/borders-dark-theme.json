@@ -12,7 +12,7 @@
     "button.background": "#414141",
     "debugToolBar.background": "#21252b",
     "diffEditor.insertedTextBackground": "#00809b33",
-    "dropdown.background": "#636363",
+    "dropdown.background": "#414141",
     "dropdown.border": "#21252b",
     "editor.background": "#202020",
     "editorError.foreground": "#c24038",
@@ -105,6 +105,7 @@
     "settings.textInputBackground": "#414141",
     "settings.numberInputBackground": "#414141",
     "settings.numberInputBorder": "#585858",
+    "settings.modifiedItemIndicator" : "#adadad",
     "textLink.foreground": "#61afef"
   },
   "tokenColors": [{
