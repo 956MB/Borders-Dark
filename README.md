@@ -1,13 +1,3 @@
-<style>
-p.small {
-  line-height: 0;
-}
-
-p.big {
-  line-height: 1.5;
-}
-</style>
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/Bloumbs/Borders-Dark/master/icon.png"
         height="160">
