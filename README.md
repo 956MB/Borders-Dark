@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Bloumbs/Borders-Dark/master/icon.png"
         height="160">
 </p>
-<p class="big" align="center"><b><font color="blue"><font size="16"><a href="https://marketplace.visualstudio.com/items?itemName=bloumbs.borders-dark">Borders Dark</a></font></font></b></p>
+<h1 class="big" align="center"><b><font color="blue"><a href="https://marketplace.visualstudio.com/items?itemName=bloumbs.borders-dark">Borders Dark</a></font></b></h1>
 
 <p align="center">
     <a>
