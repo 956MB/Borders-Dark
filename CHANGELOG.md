@@ -1,12 +1,12 @@
 # Change Log
 
-## _0.1.5_ | _1/27/2019_
+## _1.5.0_ | _1/27/2019_
 
 - Updated README
 - Added CHANGELOG
-- "1.1.5" = "0.1.5"
+- "1.1.4" --> "1.5.0"
 
-## _0.1.4_ | _1/22/2019_
+## _1.1.4_ | _1/22/2019_
 
 **Borders Darker!**
 
@@ -20,7 +20,7 @@
     + "sideBarSectionHeader.background": "#404040"
     + "terminal.background" : "#202020"
 
-## _0.1.3_ | _1/17/2019_
+## _1.1.3_ | _1/17/2019_
 
     + "input.placeholderForeground" : "#959595"
     + "panelTitle.activeForeground" : "#fcfcfc"
@@ -31,12 +31,12 @@
     + "tab.inactiveForeground" : "#979797"
     + "terminal.ansiBrightGreen": "#84df44"
 
-## _0.1.2_ | _1/16/2019_
+## _1.1.2_ | _1/16/2019_
 
     + "dropdown.background": "#414141"
     + "settings.modifiedItemIndicator" : "#adadad"
 
-## _0.1.1_ | _1/15/2019_
+## _1.1.1_ | _1/15/2019_
 
     + "activityBar.foreground": "#dfdfdf"
     + "editorGroup.dropBackground" : "#b1b1b125"
@@ -45,7 +45,7 @@
     + "editorLineNumber.activeForeground": "#acacac"
     + "foreground": "#696969"
 
-## _0.1.0_ | _12/27/2018_
+## _1.1.0_ | _12/27/2018_
 
     + "editor.selectionHighlightBorder": "#a8a8a870"
     + "editor.findMatchBackground": "#9e9e9e5e"
