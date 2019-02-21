@@ -1,9 +1,18 @@
 # Change Log
 
+## _1.5.1_ | _2/21/2019_
+
+    + "list.inactiveFocusBackground": "#404040"
+    + "list.hoverForeground": "#fff"
+    + "sideBar.foreground": "#bdbdbd"
+    + "tab.activeBorder": "#bdbdbd"
+
+- Updated README.md
+
 ## _1.5.0_ | _1/27/2019_
 
-- Updated README
-- Added CHANGELOG
+- Updated README.md
+- Added CHANGELOG.md
 - "1.1.4" --> "1.5.0"
 
 ## _1.1.4_ | _1/22/2019_
