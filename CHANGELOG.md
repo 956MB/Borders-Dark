@@ -1,5 +1,10 @@
 # Change Log
 
+## _1.5.2_ | _2/25/2019_
+
+    + "editor.wordHighlightBackground" : "#61616175"
+    + "editor.wordHighlightBorder": "#91919196"
+
 ## _1.5.1_ | _2/21/2019_
 
     + "list.inactiveFocusBackground": "#404040"
