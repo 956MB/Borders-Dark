@@ -15,6 +15,7 @@
         <img src="https://img.shields.io/github/issues/bloumbs/borders-dark.svg?colorB=orange&style=flat" />&nbsp;</a>
 </p>
 
+Feedback on the theme? Fixes? [Create an issue!](https://github.com/Bloumbs/Borders-Dark/issues) 😃
 **Borders Dark**
 ![Screenshot1](images/borders-dark-example.png)
 ![Screenshot1](images/borders-dark-new-file.png)
@@ -24,6 +25,4 @@
 
 ### More information
 
-- Syntax colors are from the popular [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) simply because it is my personal favorite and what I use. All credit to those guys for having the best syntax :)
-
-- Suggestions? Fixes? [Create an issue](https://github.com/Bloumbs/Borders-Dark/issues)
+- Syntax colors are from the popular [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) simply because it is my personal favorite and what I use. All credit to those guys for having the best syntax 😃
