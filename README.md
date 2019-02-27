@@ -16,6 +16,7 @@
 </p>
 
 Feedback on the theme? Fixes? [Create an issue!](https://github.com/Bloumbs/Borders-Dark/issues) 😃
+
 **Borders Dark**
 ![Screenshot1](images/borders-dark-example.png)
 ![Screenshot1](images/borders-dark-new-file.png)
