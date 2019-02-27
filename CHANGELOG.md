@@ -1,5 +1,12 @@
 # Change Log
 
+## _1.5.3_ | _2/26/2019_
+
+    + "tab.border":"#4e4e4e"
+    + "sideBarSectionHeader.border":"#616161"
+    + "notificationToast.border":"#464646"
+    + "editorGroup.border":"#4e4e4e"
+
 ## _1.5.2_ | _2/25/2019_
 
     + "editor.wordHighlightBackground" : "#61616175"
