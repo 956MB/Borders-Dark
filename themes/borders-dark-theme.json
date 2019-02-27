@@ -36,7 +36,7 @@
     "editor.wordHighlightStrongBorder": "#7f848e",
     "editorGroup.dropBackground" : "#b1b1b125",
     "editorGroup.emptyBackground": "#252525",
-    "editorGroup.border": "#404040",
+    "editorGroup.border": "#4e4e4e",
     "editorGroupHeader.tabsBackground": "#272727",
     "editorGroupHeader.tabsBorder": "#585858",
     "editorIndentGuide.background": "#46464685",
@@ -77,6 +77,7 @@
     "sideBar.foreground" : "#bdbdbd",
     "sideBarTitle.foreground" : "#e5e5e5",
     "sideBarSectionHeader.foreground" : "#e5e5e5",
+    "sideBarSectionHeader.border":"#616161",
     "sideBar.border": "#585858",
     "sideBarSectionHeader.background": "#404040",
     "statusBar.background": "#0077ff",
@@ -86,6 +87,7 @@
     "statusBar.debuggingBackground": "#ff5e00",
     "statusBar.debuggingBorder": "#66017a",
     "statusBar.debuggingForeground": "#ffffff",
+    "tab.border":"#4e4e4e",
     "tab.activeBackground": "#3b3b3b",
     "tab.activeBorder": "#bdbdbd",
     "tab.inactiveBackground": "#272727",
@@ -120,6 +122,7 @@
     "settings.numberInputBackground": "#414141",
     "settings.numberInputBorder": "#585858",
     "settings.modifiedItemIndicator" : "#adadad",
+    "notificationToast.border":"#464646",
     "textLink.foreground": "#61afef"
   },
   "tokenColors": [{
