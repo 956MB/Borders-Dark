@@ -1,5 +1,14 @@
 # Change Log
 
+## _1.5.4_ | _3/5/2019_
+
+    + "activityBarBadge.background":"#0077ff"
+    + "activityBarBadge.foreground": "#ffffff"
+    + "statusBar.border": "#0077ff"
+    + "statusBar.noFolderBorder": "#8c00ff"
+    + "statusBar.noFolderForeground": "#ffffff"
+    + "statusBar.debuggingBorder": "#ff5e00"
+
 ## _1.5.3_ | _2/26/2019_
 
     + "tab.border":"#4e4e4e"
