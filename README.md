@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/github/issues/bloumbs/borders-dark.svg?colorB=orange&style=flat" />&nbsp;</a>
 </p>
 
-Feedback on the theme? Fixes? [Create an issue!](https://github.com/Bloumbs/Borders-Dark/issues) 😃
+Suggestions? Fixes? [Create an issue!](https://github.com/Bloumbs/Borders-Dark/issues) 😃
 
 **Borders Dark**
 ![Screenshot1](images/borders-dark-example.png)
