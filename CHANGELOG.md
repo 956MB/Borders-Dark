@@ -1,5 +1,26 @@
 # Change Log
 
+## _1.5.5_ | _3/11/2019_
+
+**Borders Dark**
+
+    + "titleBar.activeBackground": "#272727",
+    + "activityBar.background": "#272727",
+    + "editorGroup.dropBackground": "#3535357c",
+    + "tab.activeBackground": "#353535",
+    + "tab.hoverBackground": "#353535",
+    + "list.hoverBackground": "#404040",
+    + "tab.unfocusedInactiveForeground": "#727272"
+
+**Borders Darker**
+
+    + "tab.inactiveBackground": "#202020",
+    + "editorGroupHeader.tabsBackground": "#202020",
+    + "tab.activeBackground": "#323232",
+    + "tab.hoverBackground": "#323232",
+    + "editorGroup.dropBackground": "#3535357c",
+    + "tab.unfocusedInactiveForeground": "#727272"
+
 ## _1.5.4_ | _3/5/2019_
 
     + "activityBarBadge.background":"#0077ff"
