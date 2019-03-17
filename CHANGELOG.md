@@ -1,5 +1,36 @@
 # Change Log
 
+## _1.5.6_ | _3/17/2019_
+
+**Borders Dark**
+
+    + "gitDecoration.ignoredResourceForeground": "#777777",
+    + "editorGutter.background": "#202020",
+    + "panel.background": "#282828",
+    + "terminal.background" : "#282828",
+    + "badge.foreground": "#ffffff",
+    + "badge.background": "#0077ff",
+    + "settings.headerForeground": "#ffffff",
+    + "settings.dropdownBackground": "#414141",
+    + "dropdown.foreground":"#f0f0f0",
+    + "dropdown.listBackground": "#414141",
+    + "editorWidget.border": "#0077ff",
+    + "errorForeground": "#ff0000",
+
+**Borders Darker**
+
+    + "gitDecoration.ignoredResourceForeground": "#777777",
+    + "editorGutter.background": "#141414",
+    + "terminal.background": "#202020",
+    + "badge.foreground": "#ffffff",
+    + "badge.background": "#0077ff",
+    + "settings.headerForeground": "#ffffff",
+    + "settings.dropdownBackground": "#414141",
+    + "dropdown.foreground": "#f0f0f0",
+    + "dropdown.listBackground": "#414141",
+    + "editorWidget.border": "#0077ff",
+    + "errorForeground": "#ff0000",
+
 ## _1.5.5_ | _3/11/2019_
 
 **Borders Dark**
