@@ -1,10 +1,10 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/Bloumbs/Borders-Dark/master/icon.png"
-        height="160">
+        height="170">
 </p>
-<h1 class="big" align="center"><b><font color="blue"><a href="https://marketplace.visualstudio.com/items?itemName=bloumbs.borders-dark">Borders Dark</a></font></b></h1>
+# [Borders Dark](https://marketplace.visualstudio.com/items?itemName=bloumbs.borders-dark)
 
-<p align="center">
+<p align="left">
     <a>
         <img src="https://img.shields.io/visual-studio-marketplace/v/bloumbs.borders-dark.svg?style=flat" />&nbsp;</a>
     <a>
@@ -18,11 +18,9 @@
 Suggestions? Fixes? [Create an issue!](https://github.com/Bloumbs/Borders-Dark/issues) 😃
 
 **Borders Dark**
-![Screenshot1](images/borders-dark-example.png)
-![Screenshot1](images/borders-dark-new-file.png)
+![Screenshot1](images/borders-dark-combo.png)
 **Borders Darker**
-![Screenshot1](images/borders-darker-example.png)
-![Screenshot2](images/borders-darker-new-file.png)
+![Screenshot1](images/borders-darker-combo.png)
 
 ### More information
 
