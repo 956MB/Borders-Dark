@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Bloumbs/Borders-Dark/master/icon.png"
         height="170">
 </p>
-# [Borders Dark](https://marketplace.visualstudio.com/items?itemName=bloumbs.borders-dark)
+# Borders Dark
 
 <p align="left">
     <a>
