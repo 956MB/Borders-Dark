@@ -16,7 +16,7 @@
     "dropdown.background": "#414141",
     "dropdown.foreground":"#f0f0f0",
     "dropdown.listBackground": "#414141",
-    "dropdown.border": "#21252b",
+    "dropdown.border": "#6b6b6b",
     "editor.background": "#202020",
     "editorError.foreground": "#c24038",
     "editorIndentGuide.activeBackground": "#6e6e6ea6",
