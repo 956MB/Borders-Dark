@@ -1,55 +1,62 @@
 # Change Log
 
+## _1.5.7_ | _3/18/2019_
+
+    + "dropdown.border": "#6b6b6b"
+
+- Borders Dark (Blue) preview added! 😃
+- Updated CHANGELOG
+
 ## _1.5.6_ | _3/17/2019_
 
 **Borders Dark**
 
-    + "gitDecoration.ignoredResourceForeground": "#777777",
-    + "editorGutter.background": "#202020",
-    + "panel.background": "#282828",
-    + "terminal.background" : "#282828",
-    + "badge.foreground": "#ffffff",
-    + "badge.background": "#0077ff",
-    + "settings.headerForeground": "#ffffff",
-    + "settings.dropdownBackground": "#414141",
-    + "dropdown.foreground":"#f0f0f0",
-    + "dropdown.listBackground": "#414141",
-    + "editorWidget.border": "#0077ff",
-    + "errorForeground": "#ff0000",
+    + "gitDecoration.ignoredResourceForeground": "#777777"
+    + "editorGutter.background": "#202020"
+    + "panel.background": "#282828"
+    + "terminal.background" : "#282828"
+    + "badge.foreground": "#ffffff"
+    + "badge.background": "#0077ff"
+    + "settings.headerForeground": "#ffffff"
+    + "settings.dropdownBackground": "#414141"
+    + "dropdown.foreground":"#f0f0f0"
+    + "dropdown.listBackground": "#414141"
+    + "editorWidget.border": "#0077ff"
+    + "errorForeground": "#ff0000"
 
 **Borders Darker**
 
-    + "gitDecoration.ignoredResourceForeground": "#777777",
-    + "editorGutter.background": "#141414",
-    + "terminal.background": "#202020",
-    + "badge.foreground": "#ffffff",
-    + "badge.background": "#0077ff",
-    + "settings.headerForeground": "#ffffff",
-    + "settings.dropdownBackground": "#414141",
-    + "dropdown.foreground": "#f0f0f0",
-    + "dropdown.listBackground": "#414141",
-    + "editorWidget.border": "#0077ff",
-    + "errorForeground": "#ff0000",
+    + "gitDecoration.ignoredResourceForeground": "#777777"
+    + "editorGutter.background": "#141414"
+    + "terminal.background": "#202020"
+    + "badge.foreground": "#ffffff"
+    + "badge.background": "#0077ff"
+    + "settings.headerForeground": "#ffffff"
+    + "settings.dropdownBackground": "#414141"
+    + "dropdown.foreground": "#f0f0f0"
+    + "dropdown.listBackground": "#414141"
+    + "editorWidget.border": "#0077ff"
+    + "errorForeground": "#ff0000"
 
 ## _1.5.5_ | _3/11/2019_
 
 **Borders Dark**
 
-    + "titleBar.activeBackground": "#272727",
-    + "activityBar.background": "#272727",
-    + "editorGroup.dropBackground": "#3535357c",
-    + "tab.activeBackground": "#353535",
-    + "tab.hoverBackground": "#353535",
-    + "list.hoverBackground": "#404040",
+    + "titleBar.activeBackground": "#272727"
+    + "activityBar.background": "#272727"
+    + "editorGroup.dropBackground": "#3535357c"
+    + "tab.activeBackground": "#353535"
+    + "tab.hoverBackground": "#353535"
+    + "list.hoverBackground": "#404040"
     + "tab.unfocusedInactiveForeground": "#727272"
 
 **Borders Darker**
 
-    + "tab.inactiveBackground": "#202020",
-    + "editorGroupHeader.tabsBackground": "#202020",
-    + "tab.activeBackground": "#323232",
-    + "tab.hoverBackground": "#323232",
-    + "editorGroup.dropBackground": "#3535357c",
+    + "tab.inactiveBackground": "#202020"
+    + "editorGroupHeader.tabsBackground": "#202020"
+    + "tab.activeBackground": "#323232"
+    + "tab.hoverBackground": "#323232"
+    + "editorGroup.dropBackground": "#3535357c"
     + "tab.unfocusedInactiveForeground": "#727272"
 
 ## _1.5.4_ | _3/5/2019_
@@ -80,12 +87,12 @@
     + "sideBar.foreground": "#bdbdbd"
     + "tab.activeBorder": "#bdbdbd"
 
-- Updated README.md
+- Updated README
 
 ## _1.5.0_ | _1/27/2019_
 
-- Updated README.md
-- Added CHANGELOG.md
+- Updated README
+- Added CHANGELOG
 - "1.1.4" --> "1.5.0"
 
 ## _1.1.4_ | _1/22/2019_
