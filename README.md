@@ -21,7 +21,9 @@ Suggestions? Fixes? [Create an issue!](https://github.com/Bloumbs/Borders-Dark/i
 **Borders Dark**
 ![Screenshot1](images/borders-dark-combo.png)
 **Borders Darker**
-![Screenshot1](images/borders-darker-combo.png)
+![Screenshot2](images/borders-darker-combo.png)
+**Borders Dark (Blue)** *(Preview)*
+![Screenshot3](images/borders-dark-blue-tease.png)
 
 ### More information
 
