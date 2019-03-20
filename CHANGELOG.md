@@ -1,11 +1,21 @@
 # Change Log
 
+## _1.5.8_ | _3/20/2019_
+
+**Borders Dark + Darker**
+
+    + "editorLineNumber.activeForeground": "#cccccc"
+    + "editor.findMatchBackground": "#6d6d6d5e"
+    + "editor.findMatchBorder": "#45b5ff70"
+    + "editor.findMatchHighlightBackground": "#6d6d6d5e"
+
+- Optional theme changes added!
+
 ## _1.5.7_ | _3/18/2019_
 
     + "dropdown.border": "#6b6b6b"
 
-- Borders Dark (Blue) preview added! 😃
-- Updated CHANGELOG
+- Borders Dark (Blue) preview added!
 
 ## _1.5.6_ | _3/17/2019_
 
@@ -86,8 +96,6 @@
     + "list.hoverForeground": "#fff"
     + "sideBar.foreground": "#bdbdbd"
     + "tab.activeBorder": "#bdbdbd"
-
-- Updated README
 
 ## _1.5.0_ | _1/27/2019_
 
