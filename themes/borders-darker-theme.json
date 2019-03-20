@@ -30,9 +30,9 @@
     "editorCursor.foreground": "#528bff",
     "editorBracketMatch.border": "#9c9c9c96",
     "editorBracketMatch.background": "#96969623",
-    "editor.findMatchBackground": "#9e9e9e5e",
-    "editor.findMatchBorder": "#45ff5e70",
-    "editor.findMatchHighlightBackground": "#9e9e9e5e",
+    "editor.findMatchBackground": "#6d6d6d5e",
+    "editor.findMatchBorder": "#45b5ff70",
+    "editor.findMatchHighlightBackground": "#6d6d6d5e",
     "editor.wordHighlightBackground": "#61616175",
     "editor.wordHighlightBorder": "#91919196",
     "editor.wordHighlightStrongBackground": "#abb2bf26",
@@ -45,7 +45,7 @@
     "editorGutter.background": "#141414",
     "editorIndentGuide.background": "#46464685",
     "editorLineNumber.foreground": "#484848",
-    "editorLineNumber.activeForeground": "#acacac",
+    "editorLineNumber.activeForeground": "#cccccc",
     "editorWhitespace.foreground": "#ff0000",
     "editorHoverWidget.background": "#303030",
     "editorHoverWidget.border": "#1f1f1f",
@@ -175,7 +175,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#696969",
+        "foreground": "#535353",
         "fontStyle": "italic"
       }
     },
