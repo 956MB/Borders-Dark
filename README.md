@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/Bloumbs/Borders-Dark/master/icon.png"
-        height="170">
+        height="180">
 </p>
 
 # Borders Dark
@@ -22,8 +22,8 @@ Suggestions? Fixes? [Create an issue!](https://github.com/Bloumbs/Borders-Dark/i
 ![Screenshot1](images/borders-dark-combo.png)
 **Borders Darker**
 ![Screenshot2](images/borders-darker-combo.png)
-**Borders Dark (Blue)** *(Preview)*
-![Screenshot3](images/borders-dark-blue-tease.png)
+**Borders Dark (Blue)** _WIP_
+![Screenshot3](images/borders-dark-blue-wip.png)
 
 ## Optional theme changes
 
