@@ -1,5 +1,10 @@
 # Change Log
 
+## _1.5.9_ | _3/21/2019_
+
+- Icon + Gallery banner updated
+- Spelling fixes
+
 ## _1.5.8_ | _3/20/2019_
 
 **Borders Dark + Darker**
@@ -9,13 +14,13 @@
     + "editor.findMatchBorder": "#45b5ff70"
     + "editor.findMatchHighlightBackground": "#6d6d6d5e"
 
-- Optional theme changes added!
+- Optional theme changes added
 
 ## _1.5.7_ | _3/18/2019_
 
     + "dropdown.border": "#6b6b6b"
 
-- Borders Dark (Blue) preview added!
+- Borders Dark (Blue) _WIP_ added
 
 ## _1.5.6_ | _3/17/2019_
 
