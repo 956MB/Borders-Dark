@@ -1,6 +1,6 @@
 # Change Log
 
-## _1.5.9_ | _3/21/2019_
+## _1.6.0_ | _3/21/2019_
 
 - Icon + Gallery banner updated
 - Spelling fixes
