@@ -1,8 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Bloumbs/Borders-Dark/master/icon.png"
-        height="180">
-</p>
-
 # Borders Dark
 
 <p align="left">
@@ -60,6 +55,11 @@ Suggestions? Fixes? [Create an issue!](https://github.com/Bloumbs/Borders-Dark/i
 #### Example:
 
 ![Screenshot4](images/borders-different-syntax.png)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Bloumbs/Borders-Dark/master/icon.png"
+        height="200">
+</p>
 
 ## More information
 
