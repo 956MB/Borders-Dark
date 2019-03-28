@@ -6,31 +6,31 @@
 
 **Borders Dark + Borders Darker:**
 
-      + "button.background": "#525252",
-      + "button.foreground": "#d8d8d8",
-      + "button.hoverBackground": "#383838",
-      + "editor.foreground": "#eeeeee",
-      + "editor.wordHighlightStrongBorder": "#9b9b9b",
-      + "editorGroup.emptyBackground": "#141414",
-      + "extensionButton.prominentForeground": "#f8fdfa",
-      + "extensionButton.prominentBackground": "#1b9b4c",
-      + "extensionButton.prominentHoverBackground": "#367238",
-      + "foreground": "#eeeeee",
-      + "input.foreground": "#eeeeee",
-      + "inputOption.activeBorder": "#999999",
-      + "list.focusForeground": "#ffffff",
-      + "peekViewEditor.matchHighlightBackground": "#575757",
-      + "pickerGroup.foreground": "#f7f7f7",
-      + "selection.background": "#b1b1b186",
-      + "statusBarItem.hoverBackground": "#ffffff17",
-      + "tab.unfocusedActiveForeground": "#999999",
-      + "tab.unfocusedActiveBorder": "#999999",
-      + "gitDecoration.ignoredResourceForeground": "#777777",
-      + "widget.shadow": "#00000000",
-      + "editorOverviewRuler.border": "#46464659",
+    + "button.background": "#525252"
+    + "button.foreground": "#d8d8d8"
+    + "button.hoverBackground": "#383838"
+    + "editor.foreground": "#eeeeee"
+    + "editor.wordHighlightStrongBorder": "#9b9b9b"
+    + "editorGroup.emptyBackground": "#141414"
+    + "extensionButton.prominentForeground": "#f8fdfa"
+    + "extensionButton.prominentBackground": "#1b9b4c"
+    + "extensionButton.prominentHoverBackground": "#367238"
+    + "foreground": "#eeeeee"
+    + "input.foreground": "#eeeeee"
+    + "inputOption.activeBorder": "#999999"
+    + "list.focusForeground": "#ffffff"
+    + "peekViewEditor.matchHighlightBackground": "#575757"
+    + "pickerGroup.foreground": "#f7f7f7"
+    + "selection.background": "#b1b1b186"
+    + "statusBarItem.hoverBackground": "#ffffff17"
+    + "tab.unfocusedActiveForeground": "#999999"
+    + "tab.unfocusedActiveBorder": "#999999"
+    + "gitDecoration.ignoredResourceForeground": "#777777"
+    + "widget.shadow": "#00000000"
+    + "editorOverviewRuler.border": "#46464659"
 
 - Icon + Gallery banner updated
-  
+
 ## _1.6.1_ | _3/21/2019_
 
 - Icon + Gallery banner updated
