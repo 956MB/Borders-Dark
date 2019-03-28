@@ -1,5 +1,36 @@
 # Change Log
 
+## _1.6.2_ | _3/28/2019_
+
+**Borders Blue added!**
+
+**Borders Dark + Borders Darker:**
+
+      + "button.background": "#525252",
+      + "button.foreground": "#d8d8d8",
+      + "button.hoverBackground": "#383838",
+      + "editor.foreground": "#eeeeee",
+      + "editor.wordHighlightStrongBorder": "#9b9b9b",
+      + "editorGroup.emptyBackground": "#141414",
+      + "extensionButton.prominentForeground": "#f8fdfa",
+      + "extensionButton.prominentBackground": "#1b9b4c",
+      + "extensionButton.prominentHoverBackground": "#367238",
+      + "foreground": "#eeeeee",
+      + "input.foreground": "#eeeeee",
+      + "inputOption.activeBorder": "#999999",
+      + "list.focusForeground": "#ffffff",
+      + "peekViewEditor.matchHighlightBackground": "#575757",
+      + "pickerGroup.foreground": "#f7f7f7",
+      + "selection.background": "#b1b1b186",
+      + "statusBarItem.hoverBackground": "#ffffff17",
+      + "tab.unfocusedActiveForeground": "#999999",
+      + "tab.unfocusedActiveBorder": "#999999",
+      + "gitDecoration.ignoredResourceForeground": "#777777",
+      + "widget.shadow": "#00000000",
+      + "editorOverviewRuler.border": "#46464659",
+
+- Icon + Gallery banner updated
+  
 ## _1.6.1_ | _3/21/2019_
 
 - Icon + Gallery banner updated
@@ -7,24 +38,19 @@
 
 ## _1.5.8_ | _3/20/2019_
 
-**Borders Dark + Darker**
+**Borders Dark + Borders Darker:**
 
     + "editorLineNumber.activeForeground": "#cccccc"
     + "editor.findMatchBackground": "#6d6d6d5e"
     + "editor.findMatchBorder": "#45b5ff70"
     + "editor.findMatchHighlightBackground": "#6d6d6d5e"
+    + "dropdown.border": "#6b6b6b"
 
 - Optional theme changes added
 
-## _1.5.7_ | _3/18/2019_
-
-    + "dropdown.border": "#6b6b6b"
-
-- Borders Dark (Blue) _WIP_ added
-
 ## _1.5.6_ | _3/17/2019_
 
-**Borders Dark**
+**Borders Dark:**
 
     + "gitDecoration.ignoredResourceForeground": "#777777"
     + "editorGutter.background": "#202020"
@@ -39,7 +65,7 @@
     + "editorWidget.border": "#0077ff"
     + "errorForeground": "#ff0000"
 
-**Borders Darker**
+**Borders Darker:**
 
     + "gitDecoration.ignoredResourceForeground": "#777777"
     + "editorGutter.background": "#141414"
@@ -55,7 +81,7 @@
 
 ## _1.5.5_ | _3/11/2019_
 
-**Borders Dark**
+**Borders Dark:**
 
     + "titleBar.activeBackground": "#272727"
     + "activityBar.background": "#272727"
@@ -65,7 +91,7 @@
     + "list.hoverBackground": "#404040"
     + "tab.unfocusedInactiveForeground": "#727272"
 
-**Borders Darker**
+**Borders Darker:**
 
     + "tab.inactiveBackground": "#202020"
     + "editorGroupHeader.tabsBackground": "#202020"
@@ -110,7 +136,7 @@
 
 ## _1.1.4_ | _1/22/2019_
 
-**Borders Darker!**
+**Borders Darker added!**
 
     + "editorGroup.border": "#404040"
     + "list.activeSelectionBackground": "#272727"
