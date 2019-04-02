@@ -32,7 +32,8 @@
       "blue"
    ],
    "contributes": {
-      "themes": [{
+      "themes": [
+         {
             "label": "Borders Blue",
             "uiTheme": "vs-dark",
             "path": "./themes/borders-blue-theme.json"
@@ -48,5 +49,8 @@
             "path": "./themes/borders-darker-theme.json"
          }
       ]
+   },
+   "dependencies": {
+      "vsce": "^1.59.0"
    }
 }
