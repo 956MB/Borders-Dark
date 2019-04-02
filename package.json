@@ -1,52 +1,52 @@
 {
-  "name": "borders-dark",
-  "displayName": "Borders Dark",
-  "description": "Just more borders dude.",
-  "version": "1.6.2",
-  "publisher": "bloumbs",
-  "author": {
-    "name": "Bloumbs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Bloumbs/Borders-Dark"
-  },
-  "engines": {
-    "vscode": "^1.30.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "icon": "icon.png",
-  "galleryBanner": {
-    "color": "#3e3e3e",
-    "theme": "dark"
-  },
-  "keywords": [
-    "borders",
-    "border",
-    "dark",
-    "darker",
-    "theme",
-    "grey",
-    "blue"
-  ],
-  "contributes": {
-    "themes": [{
-        "label": "Borders Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/borders-dark-theme.json"
-      },
-      {
-        "label": "Borders Darker",
-        "uiTheme": "vs-dark",
-        "path": "./themes/borders-darker-theme.json"
-      },
-      {
-        "label": "Borders Blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/borders-blue-theme.json"
-      }
-    ]
-  }
+   "name": "borders-dark",
+   "displayName": "Borders Dark",
+   "description": "Just more borders dude.",
+   "version": "1.6.3",
+   "publisher": "bloumbs",
+   "author": {
+      "name": "Bloumbs"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Bloumbs/Borders-Dark"
+   },
+   "engines": {
+      "vscode": "^1.30.0"
+   },
+   "categories": [
+      "Themes"
+   ],
+   "icon": "icon.png",
+   "galleryBanner": {
+      "color": "#3e3e3e",
+      "theme": "dark"
+   },
+   "keywords": [
+      "borders",
+      "border",
+      "dark",
+      "darker",
+      "theme",
+      "grey",
+      "blue"
+   ],
+   "contributes": {
+      "themes": [{
+            "label": "Borders Blue",
+            "uiTheme": "vs-dark",
+            "path": "./themes/borders-blue-theme.json"
+         },
+         {
+            "label": "Borders Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/borders-dark-theme.json"
+         },
+         {
+            "label": "Borders Darker",
+            "uiTheme": "vs-dark",
+            "path": "./themes/borders-darker-theme.json"
+         }
+      ]
+   }
 }
