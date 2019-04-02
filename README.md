@@ -26,11 +26,11 @@ Suggestions? Fixes? [Create an issue](https://github.com/Bloumbs/Borders-Dark/is
 
 1. Copy the content inside the corresponding .txt file of the theme you are using below:
 
+   [borders-blue-remove.txt](https://github.com/Bloumbs/Borders-Dark/blob/master/optional/borders-blue-remove.txt)
+
    [borders-dark-remove.txt](https://github.com/Bloumbs/Borders-Dark/blob/master/optional/borders-dark-remove.txt)
 
    [borders-darker-remove.txt](https://github.com/Bloumbs/Borders-Dark/blob/master/optional/borders-darker-remove.txt)
-
-   [borders-blue-remove.txt](https://github.com/Bloumbs/Borders-Dark/blob/master/optional/borders-blue-remove.txt)
 
 2. Paste the content of the .txt file you just copied inside the braces of "workbench.colorCustomizations": { located in VSCode's "settings.json" file.
 
@@ -66,4 +66,4 @@ Suggestions? Fixes? [Create an issue](https://github.com/Bloumbs/Borders-Dark/is
 ## More information
 
 - Main syntax colors are from the popular [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) simply because it is my personal favorite and what I use. All credit to those guys for having the best syntax.
-- All credit to the themes whose syntax I am using in the example screenshot above:  One Dark Pro, Monokai Pro (Filter Machine), and Material Theme.
+- All credit to the themes whose syntax I am using in the example screenshot above: One Dark Pro, Monokai Pro (Filter Machine), and Material Theme.
