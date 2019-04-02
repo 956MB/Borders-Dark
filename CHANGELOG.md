@@ -1,6 +1,45 @@
 # Change Log
 
-## _1.6.2_ | _3/28/2019_
+## 1.6.3 | 4/2/2019
+
+**Borders Blue:**
+
+    + "editor.findMatchBackground": "#12486d70"
+    + "editor.findMatchHighlightBackground": "#1f659470"
+    + "editor.findMatchHighlightBorder": "#45b5ff70"
+    + "scrollbar.shadow": "#00000000"
+
+**Borders Dark:**
+
+    + "sideBarSectionHeader.border": "#404040"
+    + "editor.findMatchBackground": "#1f659470"
+    + "editor.findMatchHighlightBackground": "#1f659470"
+    + "editor.findMatchHighlightBorder": "#45b5ff70"
+    + "scrollbarSlider.background": "#383838ad"
+    + "scrollbarSlider.activeBackground": "#4141419d"
+    + "scrollbarSlider.hoverBackground": "#4141419d"
+    + "scrollbar.shadow": "#00000000"
+    + "editorLineNumber.foreground": "#494949"
+    + "notifications.background": "#282828"
+    + "notifications.foreground": "#e7e7e7"
+    + "notificationToast.border": "#585858"
+
+**Borders Darker:**
+
+    + "sideBarSectionHeader.border": "#404040"
+    + "editor.findMatchBackground": "#12486d70"
+    + "editor.findMatchHighlightBackground": "#1f659470"
+    + "editor.findMatchHighlightBorder": "#45b5ff70"
+    + "scrollbarSlider.background": "#383838ad"
+    + "scrollbarSlider.activeBackground": "#4141419d"
+    + "scrollbarSlider.hoverBackground": "#4141419d"
+    + "scrollbar.shadow": "#00000000"
+    + "editorLineNumber.foreground": "#494949"
+    + "notifications.background": "#202020"
+    + "notifications.foreground": "#e7e7e7"
+    + "notificationToast.border": "#585858"
+
+## 1.6.2 | 3/28/2019
 
 **Borders Blue added!**
 
@@ -29,14 +68,12 @@
     + "widget.shadow": "#00000000"
     + "editorOverviewRuler.border": "#46464659"
 
-- Icon + Gallery banner updated
-
-## _1.6.1_ | _3/21/2019_
+## 1.6.1 | 3/21/2019
 
 - Icon + Gallery banner updated
 - Spelling fixes
 
-## _1.5.8_ | _3/20/2019_
+## 1.5.8 | 3/20/2019
 
 **Borders Dark + Borders Darker:**
 
@@ -48,7 +85,7 @@
 
 - Optional theme changes added
 
-## _1.5.6_ | _3/17/2019_
+## 1.5.6 | 3/17/2019
 
 **Borders Dark:**
 
@@ -79,7 +116,7 @@
     + "editorWidget.border": "#0077ff"
     + "errorForeground": "#ff0000"
 
-## _1.5.5_ | _3/11/2019_
+## 1.5.5 | 3/11/2019
 
 **Borders Dark:**
 
@@ -100,7 +137,7 @@
     + "editorGroup.dropBackground": "#3535357c"
     + "tab.unfocusedInactiveForeground": "#727272"
 
-## _1.5.4_ | _3/5/2019_
+## 1.5.4 | 3/5/2019
 
     + "activityBarBadge.background":"#0077ff"
     + "activityBarBadge.foreground": "#ffffff"
@@ -109,32 +146,32 @@
     + "statusBar.noFolderForeground": "#ffffff"
     + "statusBar.debuggingBorder": "#ff5e00"
 
-## _1.5.3_ | _2/26/2019_
+## 1.5.3 | 2/26/2019
 
     + "tab.border":"#4e4e4e"
     + "sideBarSectionHeader.border":"#616161"
     + "notificationToast.border":"#464646"
     + "editorGroup.border":"#4e4e4e"
 
-## _1.5.2_ | _2/25/2019_
+## 1.5.2 | 2/25/2019
 
     + "editor.wordHighlightBackground" : "#61616175"
     + "editor.wordHighlightBorder": "#91919196"
 
-## _1.5.1_ | _2/21/2019_
+## 1.5.1 | 2/21/2019
 
     + "list.inactiveFocusBackground": "#404040"
     + "list.hoverForeground": "#fff"
     + "sideBar.foreground": "#bdbdbd"
     + "tab.activeBorder": "#bdbdbd"
 
-## _1.5.0_ | _1/27/2019_
+## 1.5.0 | 1/27/2019
 
 - Updated README
 - Added CHANGELOG
 - "1.1.4" --> "1.5.0"
 
-## _1.1.4_ | _1/22/2019_
+## 1.1.4 | 1/22/2019
 
 **Borders Darker added!**
 
@@ -148,7 +185,7 @@
     + "sideBarSectionHeader.background": "#404040"
     + "terminal.background" : "#202020"
 
-## _1.1.3_ | _1/17/2019_
+## 1.1.3 | 1/17/2019
 
     + "input.placeholderForeground" : "#959595"
     + "panelTitle.activeForeground" : "#fcfcfc"
@@ -159,12 +196,12 @@
     + "tab.inactiveForeground" : "#979797"
     + "terminal.ansiBrightGreen": "#84df44"
 
-## _1.1.2_ | _1/16/2019_
+## 1.1.2 | 1/16/2019
 
     + "dropdown.background": "#414141"
     + "settings.modifiedItemIndicator" : "#adadad"
 
-## _1.1.1_ | _1/15/2019_
+## 1.1.1 | 1/15/2019
 
     + "activityBar.foreground": "#dfdfdf"
     + "editorGroup.dropBackground" : "#b1b1b125"
@@ -173,7 +210,7 @@
     + "editorLineNumber.activeForeground": "#acacac"
     + "foreground": "#696969"
 
-## _1.1.0_ | _12/27/2018_
+## 1.1.0 | 12/27/2018
 
     + "editor.selectionHighlightBorder": "#a8a8a870"
     + "editor.findMatchBackground": "#9e9e9e5e"
@@ -184,6 +221,6 @@
     + "list.focusBackground": "#535353"
     + "list.hoverBackground": "#535353"
 
-## _0.1.0_ | _12/19/2018_
+## 0.1.0 | 12/19/2018
 
 - Initial release
