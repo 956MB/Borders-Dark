@@ -1,15 +1,41 @@
 # Change Log
 
+## 1.6.4 | 4/3/2019
+
+**Blue:**
+
+    + "tab.inactiveForeground": "#81868d"
+    + "editor.lineHighlightBackground": "#3a3f479d"
+    + "editor.selectionBackground": "#3a3f479d"
+    + "editorWidget.border": "#1683ff"
+    + "panelTitle.activeBorder": "#1d242b"
+
+**Dark:**
+
+    + "panelTitle.activeBorder" : "#282828"
+
+**Darker:**
+
+    + "panelTitle.activeBorder" : "#202020"
+
+**Dark + Darker:**
+
+    + "tab.inactiveForeground": "#878787"
+    + "editorCursor.foreground": "#cccccc"
+    + "editor.lineHighlightBackground": "#383838be"
+    + "editor.selectionBackground": "#383838be"
+    + "editorWidget.border": "#cccccc"
+
 ## 1.6.3 | 4/2/2019
 
-**Borders Blue:**
+**Blue:**
 
     + "editor.findMatchBackground": "#12486d70"
     + "editor.findMatchHighlightBackground": "#1f659470"
     + "editor.findMatchHighlightBorder": "#45b5ff70"
     + "scrollbar.shadow": "#00000000"
 
-**Borders Dark:**
+**Dark:**
 
     + "sideBarSectionHeader.border": "#404040"
     + "editor.findMatchBackground": "#1f659470"
@@ -24,7 +50,7 @@
     + "notifications.foreground": "#e7e7e7"
     + "notificationToast.border": "#585858"
 
-**Borders Darker:**
+**Darker:**
 
     + "sideBarSectionHeader.border": "#404040"
     + "editor.findMatchBackground": "#12486d70"
@@ -43,7 +69,7 @@
 
 **Borders Blue added!**
 
-**Borders Dark + Borders Darker:**
+**Dark + Darker:**
 
     + "button.background": "#525252"
     + "button.foreground": "#d8d8d8"
@@ -75,7 +101,7 @@
 
 ## 1.5.8 | 3/20/2019
 
-**Borders Dark + Borders Darker:**
+**Dark + Darker:**
 
     + "editorLineNumber.activeForeground": "#cccccc"
     + "editor.findMatchBackground": "#6d6d6d5e"
@@ -87,7 +113,7 @@
 
 ## 1.5.6 | 3/17/2019
 
-**Borders Dark:**
+**Dark:**
 
     + "gitDecoration.ignoredResourceForeground": "#777777"
     + "editorGutter.background": "#202020"
@@ -102,7 +128,7 @@
     + "editorWidget.border": "#0077ff"
     + "errorForeground": "#ff0000"
 
-**Borders Darker:**
+**Darker:**
 
     + "gitDecoration.ignoredResourceForeground": "#777777"
     + "editorGutter.background": "#141414"
@@ -118,7 +144,7 @@
 
 ## 1.5.5 | 3/11/2019
 
-**Borders Dark:**
+**Dark:**
 
     + "titleBar.activeBackground": "#272727"
     + "activityBar.background": "#272727"
@@ -128,7 +154,7 @@
     + "list.hoverBackground": "#404040"
     + "tab.unfocusedInactiveForeground": "#727272"
 
-**Borders Darker:**
+**Darker:**
 
     + "tab.inactiveBackground": "#202020"
     + "editorGroupHeader.tabsBackground": "#202020"
