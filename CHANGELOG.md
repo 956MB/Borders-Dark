@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.6.6 | 4/5/2019
+## 1.6.7 | 4/5/2019
 
 - Icon + Gallery banner updated
 - README Updated
