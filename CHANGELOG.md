@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.6.5 | 4/5/2019
+
+- Icon + Gallery banner updated
+- README Updated
+
 ## 1.6.4 | 4/3/2019
 
 **Blue:**
