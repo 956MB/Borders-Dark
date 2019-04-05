@@ -1,24 +1,10 @@
-# Borders Dark
+# [Borders Dark](https://marketplace.visualstudio.com/items?itemName=bloumbs.borders-dark)
 
 Just more borders dude.
 
-<p align="left">
-    <a>
-        <img src="https://img.shields.io/visual-studio-marketplace/v/bloumbs.borders-dark.svg?style=flat" />&nbsp;</a>
-    <a>
-        <img src="https://img.shields.io/visual-studio-marketplace/d/bloumbs.borders-dark.svg?colorB=green&style=flat" />&nbsp;</a>
-    <a>
-        <img src="https://img.shields.io/github/last-commit/bloumbs/borders-dark.svg?colorB=magenta&style=flat" />&nbsp;</a>
-    <a>
-        <img src="https://img.shields.io/github/issues/bloumbs/borders-dark.svg?colorB=orange&style=flat" />&nbsp;</a>
-</p>
-
-**Borders Dark**
-![Screenshot1](images/borders-dark-combo.png)
-**Borders Darker**
-![Screenshot2](images/borders-darker-combo.png)
-**Borders Blue**
-![Screenshot3](images/borders-blue-combo.png)
+![Dark](images/borders-dark-combo.png)
+![Darker](images/borders-darker-combo.png)
+![Blue](images/borders-blue-combo.png)
 
 ## Optional theme changes
 
@@ -36,7 +22,7 @@ Just more borders dude.
 
 ![Imgur](https://i.imgur.com/NAMwyfp.png)
 
-###### FYI: I recommend at least keeping the color of _"statusBar.debuggingBackground" & "statusBar.debuggingBorder"_ alone. It is a bit difficult to notice when your'e in debugging mode when the color is removed. Your choice though.
+> FYI: I recommend at least keeping the color of _"statusBar.debuggingBackground" & "statusBar.debuggingBorder"_ alone. It is a bit difficult to notice when your'e in debugging mode when the color is removed. Your choice though.
 
 ### Use different syntax colors:
 
@@ -50,9 +36,9 @@ Just more borders dude.
 
 4. Now you can select any other theme you have installed inside VSCode to use its syntax colors.
 
-###### FYI: Some theme's syntax or git colors may clash with the colors of Borders Dark & Darker, and will not look the best.
+> FYI: Some theme's syntax or git colors may clash with the colors of Borders Dark & Darker, and will not look the best.
 
-###### ALSO: There may be slight color mistakes or things left out of the Borders themes that could be more easily noticed when using other themes syntax. It would really help if you notice these mistakes, [create an issue](https://github.com/Bloumbs/Borders-Dark/issues) to let me know so I can fix them.
+> ALSO: There may be slight color mistakes or things left out of the Borders themes that could be more easily noticed when using other themes syntax. It would really help if you notice these mistakes, [create an issue](https://github.com/Bloumbs/Borders-Dark/issues) to let me know so I can fix them.
 
 #### Example:
 
