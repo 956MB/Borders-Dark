@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.6.8 | 4/9/2019
+
+**Blue:**
+
+    + "editor.selectionBackground": "#5b64709d"
+    + "titleBar.activeForeground": "#e5e9ec"
+
+**Dark + Darker:**
+
+    + "editor.selectionBackground": "#707070be"
+
 ## 1.6.7 | 4/5/2019
 
 - Icon + Gallery banner updated
