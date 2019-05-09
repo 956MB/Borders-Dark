@@ -26,7 +26,7 @@
     "editorMarkerNavigation.background": "#21252b",
     "editorRuler.foreground": "#abb2bf26",
     "editor.lineHighlightBackground": "#383838be",
-    "editor.selectionBackground": "#383838be",
+    "editor.selectionBackground": "#707070be",
     "editor.selectionHighlightBackground": "#ffffff10",
     "editor.selectionHighlightBorder": "#a8a8a870",
     "editorCursor.background": "#ffffffc9",
