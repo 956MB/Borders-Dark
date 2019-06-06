@@ -2,7 +2,7 @@
    "name": "borders-dark",
    "displayName": "Borders Dark",
    "description": "Just more borders dude.",
-   "version": "1.6.8",
+   "version": "1.7.0",
    "publisher": "bloumbs",
    "author": {
       "name": "Bloumbs"
@@ -19,8 +19,8 @@
    ],
    "icon": "icon.png",
    "galleryBanner": {
-      "color": "#4a4a4a",
-      "theme": "dark"
+      "color": "#f2f2f2",
+      "theme": "light"
    },
    "keywords": [
       "borders",
