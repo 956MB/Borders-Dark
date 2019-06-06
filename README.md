@@ -36,7 +36,7 @@ Just more borders dude.
 
 4. Now you can select any other theme you have installed inside VSCode to use its syntax colors.
 
-> FYI: Some theme's syntax or git colors may clash with the colors of Borders Dark & Darker, and will not look the best.
+> FYI: Some themes syntax or git colors may clash with the colors of Borders Dark & Darker, and will not look the best.
 
 > ALSO: There may be slight color mistakes or things left out of the Borders themes that could be more easily noticed when using other themes syntax. It would really help if you notice these mistakes, [create an issue](https://github.com/Bloumbs/Borders-Dark/issues) to let me know so I can fix them.
 
