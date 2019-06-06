@@ -1,6 +1,37 @@
 # Change Log
 
-## 1.6.8 | 4/9/2019
+## 1.7.0 | 6/6/2019
+
+**Blue:**
+
+    + "breadcrumb.foreground": "#888d94"
+    + "breadcrumb.background": "#1d242b"
+    + "breadcrumb.focusForeground": "#d6d6d6"
+    + "tab.inactiveForeground": "#888d94"
+    + "input.background": "#1d242b"
+    + "dropdown.background": "#1d242b"
+
+**Dark:**
+
+    + "breadcrumb.foreground": "#969696"
+    + "breadcrumb.background": "#282828"
+    + "breadcrumb.focusForeground": "#c7c7c7"
+    + "tab.inactiveForeground": "#969696"
+    + "input.background": "#353535"
+    + "dropdown.background": "#353535"
+
+**Darker:**
+
+    + "breadcrumb.foreground": "#969696"
+    + "breadcrumb.background": "#202020"
+    + "breadcrumb.focusForeground": "#c4c4c4"
+    + "tab.inactiveForeground": "#969696"
+    + "input.background": "#343434"
+    + "dropdown.background": "#343434"
+
+- Icon + Gallery banner updated
+
+## 1.6.8 | 5/9/2019
 
 **Blue:**
 
