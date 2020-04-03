@@ -2,9 +2,7 @@
 
 Just more borders dude.
 
-![Dark](images/borders-dark-combo.png)
-![Darker](images/borders-darker-combo.png)
-![Blue](images/borders-blue-combo.png)
+![All](images/borders-different-syntax.png)
 
 ## Optional theme changes
 
@@ -40,9 +38,11 @@ Just more borders dude.
 
 > ALSO: There may be slight color mistakes or things left out of the Borders themes that could be more easily noticed when using other themes syntax. It would really help if you notice these mistakes, [create an issue](https://github.com/Bloumbs/Borders-Dark/issues) to let me know so I can fix them.
 
-#### Example:
+#### Options:
 
-![Screenshot4](images/borders-different-syntax.png)
+![Dark](images/borders-dark-combo.png)
+![Darker](images/borders-darker-combo.png)
+![Blue](images/borders-blue-combo.png)
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Bloumbs/Borders-Dark/master/icon.png"
